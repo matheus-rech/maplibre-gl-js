@@ -5,7 +5,9 @@
     "types": [
       "geojson",
       "offscreencanvas"
-    ]
+    ],
+    "noUnusedLocals": false,
+    "noUnusedParameters": false
   },
   "include": [
     "dist/maplibre-gl.d.ts"
